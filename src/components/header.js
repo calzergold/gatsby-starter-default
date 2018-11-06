@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: 'none',
           }}
         >
-          {siteTitle}
+          Ty jobs 4 u
         </Link>
       </h1>
     </div>
